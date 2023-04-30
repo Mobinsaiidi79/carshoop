@@ -544,7 +544,7 @@ main {
     position: relative;
 }
 
-. {
+.two {
     grid-column: 7/10;
     grid-row: 1/2;
     background-color: #e3b505;
